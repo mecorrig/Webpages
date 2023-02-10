@@ -1,0 +1,21 @@
+/*
+ *Name: Megan Corrigan
+ *UnityID: mecorrig
+ *Date: Feb 10 2023
+ *Assignment: Webpages IA
+ *Description: Webpages Independent Assignment
+ */
+ 
+Background {
+    background-color:#badfd5 ;
+}
+
+.table-border {
+    border: 2px solid #000000 ;
+}
+
+#photo-resize {
+    border-image: URL(photo_of_me.png) 2px outset #00FF00 ;
+    max-width: 200px ;
+    max-height: 250px ;
+}
