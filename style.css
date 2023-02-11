@@ -6,8 +6,10 @@
  *Description: Webpages Independent Assignment
  */
  
-Background {
-    background-color:#badfd5 ;
+p {
+    font-family: Times;
+    font-size: 16px;
+    color: #badfd5; ;
 }
 
 .table-border {
